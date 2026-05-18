@@ -1,2 +1,0 @@
-# resum
-about my resume
